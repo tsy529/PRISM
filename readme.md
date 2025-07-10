@@ -1,0 +1,20 @@
+### Requirement
+- CMAKE version 3.18
+- GCC-11
+- G++-11
+- OpenMP
+- GLPK
+- Unbuntu 22.04.5 LTS
+
+### Order
+```bash
+echo "# PPSM"
+cd build
+cmake ..
+cmake --build .
+cd ../bin
+./main
+```
+
+
+
