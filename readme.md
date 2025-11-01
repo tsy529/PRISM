@@ -8,7 +8,7 @@
 
 ### Order
 ```bash
-echo "# PPSM"
+echo "# PRISM"
 cd build
 cmake ..
 cmake --build .
@@ -16,5 +16,8 @@ cd ../bin
 ./main
 ```
 
+### Technical Report
+We provide a more detailed version of the paper.
+Please refer to "\[Technical Report\] How Differential Privacy Accelerates Multi-Party Computation in Subgraph Matching.pdf"
 
 
